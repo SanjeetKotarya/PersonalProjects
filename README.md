@@ -32,7 +32,7 @@ Supports video quality selection via a simple, responsive GUI.
 **Description:**
 Automates batch downloading of multi-part game files from ad-heavy websites.
 Paste the game page link and download all parts in one click, bypassing repetitive manual steps.
-**Download:** \[Link to be added]
+**Download:** \[[Link to be added]](https://drive.google.com/file/d/1QIpazzqfXdY7_WbhZQv_JFLgTtYvSOTh/view?usp=sharing)
 
 ---
 
