@@ -36,40 +36,6 @@ Paste the game page link and download all parts in one click, bypassing repetiti
 
 ---
 
-## ⚙️ Installation & Usage
-
-### Prerequisites
-
-* Python 3.8+
-* Required libraries (listed in `requirements.txt`)
-
-### Steps
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
-   ```
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run any tool:
-
-   ```bash
-   python ImgToVid.py
-   python IRD.py
-   python FitGrab.py
-   ```
-
----
-
 ## 📜 License
 
 This repository is licensed under the MIT License – feel free to use and modify it.
-
----
-
-Do you want me to also make a **`requirements.txt`** file for these three programs so it’s ready for GitHub? That way, anyone can just install all dependencies in one go.
