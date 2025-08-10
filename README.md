@@ -12,7 +12,7 @@ A collection of Python-based desktop utilities I developed for personal producti
 **Description:**
 Converts image sequences into videos with custom frame rate options.
 Originally built to speed up the process of exporting Blender animations (as PNG sequences) into videos without relying on paid tools like Adobe Premiere Pro.
-**Download:** \[Link to be added]
+**Download:** \https://drive.google.com/file/d/1zDIsxTYrqDevx3LqGj0bpwK5xIpL1hXe/view?usp=sharing
 
 ---
 
@@ -22,7 +22,7 @@ Originally built to speed up the process of exporting Blender animations (as PNG
 **Description:**
 Downloads videos from YouTube and Instagram by simply pasting the link.
 Supports video quality selection via a simple, responsive GUI.
-**Download:** \[Link to be added]
+**Download:** \https://drive.google.com/file/d/1kPa3PdQAmFSHI-8NYLDXlIQXPhr9uYlD/view?usp=sharing
 
 ---
 
@@ -32,7 +32,7 @@ Supports video quality selection via a simple, responsive GUI.
 **Description:**
 Automates batch downloading of multi-part game files from ad-heavy websites.
 Paste the game page link and download all parts in one click, bypassing repetitive manual steps.
-**Download:** \[[Link to be added]](https://drive.google.com/file/d/1QIpazzqfXdY7_WbhZQv_JFLgTtYvSOTh/view?usp=sharing)
+**Download:** \https://drive.google.com/file/d/1QIpazzqfXdY7_WbhZQv_JFLgTtYvSOTh/view?usp=sharing
 
 ---
 
